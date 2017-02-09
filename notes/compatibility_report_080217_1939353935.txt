@@ -1,0 +1,5 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+game speed set to 30
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script __global_object_depths.gml
